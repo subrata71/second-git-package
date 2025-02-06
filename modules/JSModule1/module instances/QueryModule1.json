@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "67a4cb686aa6b5629284403b_286580c9-176a-427e-aef3-b635dd25ab6b",
+  "id": "JSModule1_QueryModule1",
+  "moduleUUID": "b6a3cea1-f35e-4cf9-9087-d4351bba693a",
+  "packageUUID": "b2251ea4-0234-44f8-8a4f-8f89c77ab931",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "QueryModule1",
+    "version": "0.0.1"
+  }
+}
