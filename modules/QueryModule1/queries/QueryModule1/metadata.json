@@ -24,6 +24,7 @@
       "name": "Users",
       "pluginId": "postgres-plugin"
     },
+    "dynamicBindingPathList": [],
     "moduleId": "QueryModule1",
     "name": "QueryModule1",
     "userSetOnLoad": false
